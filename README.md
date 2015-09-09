@@ -7,11 +7,8 @@ Stashboard was written by Twilio to provide status information on our phone, SMS
 ## Installation
 
 1. Download and install the [App Engine SDK for Python][appengine]
-2. `git clone git://github.com/twilio/stashboard.git`
-3. Add your application id to `app.yaml`
-4. Open the SDK, choose `File > Add Existing Application...` and select the `stashboard` folder inside the cloned repository
-5. Update the settings in `settings.py`
-6. Visit http://your-app-id.appspot.com/admin/setup to complete the installation
+2. `git clone git://github.com/Penske-Media-Corp/stashboard.git`
+3. Open the SDK, choose `File > Add Existing Application...` and select the `stashboard` folder *inside the cloned repository*
 
 From here you can either run Stashboard locally in the [App Engine development environment][local] or [deploy to Appspot][deploy].
 See the [Getting Started](http://code.google.com/appengine/docs/python/gettingstarted) guide for a basic overview of the App Engine platform.
