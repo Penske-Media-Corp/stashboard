@@ -51,6 +51,7 @@ handlers:
 
 - url: .*
   script: main.py
+  login: required
 
 admin_console:
   pages:
